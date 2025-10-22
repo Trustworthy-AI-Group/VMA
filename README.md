@@ -2,7 +2,7 @@
 
 This repository contains code to reproduce results from the paper:
 
-[Attention! Your Vision Language Model Could Be Maliciously Manipulated](https://arxiv.org/abs/2505.19911) (CVPR 2025)
+[Attention! Your Vision Language Model Could Be Maliciously Manipulated](https://arxiv.org/abs/2505.19911) (NeurIPS 2025)
 
 [Xiaosen Wang](https://xiaosen-wang.github.io/), Shaokang Wang, Zhijin Ge, Yuyang Luo, Shudong Zhang
 
